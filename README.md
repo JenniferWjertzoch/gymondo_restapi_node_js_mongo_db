@@ -1,4 +1,4 @@
-## Gymondo Rest API in NodeJS with MongoDB 
+## Rest API in NodeJS with MongoDB 
 
 Build a scalable RESTful API with NodeJS and Express for a set of workouts. I used MongoDB Atlas for hosting my database.
 
